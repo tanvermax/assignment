@@ -84,7 +84,7 @@
 
 }
 
-a {
+.contc_btn a {
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-family: "Montserrat", sans-serif;
@@ -190,4 +190,140 @@ main {
     text-align: left;
     opacity: .7;
     margin-top: 18px;
+}
+
+/* inspiration */
+.my_ins {
+    width: 988px;
+    margin: auto;
+}
+
+.my_ins_title {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 37px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.my_ins_des {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: .7;
+    margin-top: 27px;
+    margin-bottom: 55px;
+}
+
+.ins_vido {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 37px;
+    margin-bottom: 50px;
+}
+
+/* my- current target */
+.targer {
+    width: 988px;
+    height: 133px;
+    margin: auto;
+}
+
+.target_title {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 37px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.target_des {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+
+}
+
+.targt_item {
+    display: flex;
+}
+
+.targt_item_one {
+    width: 329px;
+    padding: 46px;
+    border-radius: 16px;
+
+    background: rgba(30, 75, 255, 0.05);
+    margin-right: 27px;
+    
+}
+
+.targt_item_two {
+    width: 329px;
+    padding: 46px;
+    border-radius: 16px;
+
+    background: rgba(34, 255, 30, 0.05);
+    margin-right: 27px;
+}
+
+.targt_item_three {
+    width: 329px;
+    padding: 46px;
+    border-radius: 16px;
+
+    background: rgba(255, 30, 214, 0.05);
+    margin-right: 27px;
+}
+
+.htl {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 27px;
+}
+
+.htl_des {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: .7;
+    margin-top: 10px;
+}
+
+.target_a {
+    color: rgb(13, 19, 33);
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    
+}
+.alink{
+    margin-top: 27px;
 }
