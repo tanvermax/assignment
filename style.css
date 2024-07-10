@@ -422,6 +422,7 @@ iframe {
     justify-content: space-between;
     width: 793px;
     margin: auto;
+    margin-top: 50px;
 }
 
 .feedback_box {
