@@ -381,7 +381,7 @@ iframe {
 
 /* support sectoion */
 #support_sec {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url('/img/handshake.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url('img/handshake.jpg');
     background-position: center;
     background-repeat: no-repeat;
     margin: auto;
