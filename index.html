@@ -29,7 +29,7 @@
           </p>
         </div>
         <div class="contc_btn">
-          <button class="contact_btn">
+          <button id="conact_me_btn" class="contact_btn">
             <a href="">Contact with me</a>
           </button>
         </div>
@@ -233,7 +233,30 @@
       </div>
     </section>
   </main>
+ <footer id="footer">
 
+    <div class="l_side">
+        <h4>Open Commitment by Tanver Meheidi</h4>
+    </div>
+    <div class="r_side">
+        <div>
+          <a href="https://www.facebook.com/tanvermahidi999/" target="_blank"><img src="img/facebook.png" alt=""></a>
+        </div>
+        <div>
+          <a href="https://github.com/tanvermax" target="_blank"><img src="img/github.png" alt=""></a>
+        </div>
+        <div>
+          <a href="https://www.linkedin.com/in/tanver-mehedi-2852a11a2/" target="_blank"><img src="img/linkedin-icon 1.png" alt=""></a>
+        </div>
+        <!-- Add other social media links as needed -->
+    </div>
+
+ </footer>
+ <script>
+  document.getElementById('conact_me_btn').addEventListener('click', function() {
+      document.getElementById('footer').scrollIntoView({ behavior: 'smooth' });
+  });
+</script>
 </body>
 
 </html>
