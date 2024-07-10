@@ -67,7 +67,9 @@
     margin-bottom: 30px;
     margin-top: 34px;
 }
-
+.btn:hover{
+    background-color: rgba(0, 255, 255, 0.266);
+}
 .future_subtitle {
     color: rgb(13, 19, 33);
     font-family: "Montserrat", sans-serif;
@@ -84,7 +86,9 @@
 
 }
 
-
+.contc_btn :hover{
+    background-color: rgba(112, 116, 178, 0.769);
+}
 
 .contact_btn {
     border-radius: 8px;
@@ -99,6 +103,7 @@
     width: 241px;
     height: 76px;
     margin-top: 30px;
+    
 }
 
 main {
